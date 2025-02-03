@@ -11,6 +11,8 @@ Simple JavaScript function for convert decimal number of euro to latvian languag
 
 ```
 
+
+
 ### And you can start to use in terminal with NodeJS or open javascript console in browser 
 
 You can call this function with next command :
@@ -20,3 +22,6 @@ You can call this function with next command :
 amountToWordsLatvian("1234,45")
 
 ```
+
+And you will get this:
+ "Viens tūkstotis divi simti trīsdesmit četri Eiro un 45 Centi"
