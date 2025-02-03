@@ -3,7 +3,7 @@
 Simple JavaScript function for convert decimal number of euro to latvian language word.
 
 # How to use 
-### Upload file to your project and connect html tag.
+### Upload file to your project and connect with html tag.
 
 ``` html
 
