@@ -13,7 +13,7 @@ Simple JavaScript function for convert decimal number of euro to latvian languag
 
 
 
-### And you can start to use in terminal with NodeJS or open javascript console in browser 
+### And also you can start to use in terminal with NodeJS or open javascript console in browser 
 
 You can call this function with next command :
 
