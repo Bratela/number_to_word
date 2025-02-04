@@ -1,5 +1,5 @@
 # Decimal numbers to word.
-## Transfer decilmal numbers latvian language words.
+## Transfer decilmal numbers to latvian language words.
 Simple JavaScript function for convert decimal number of euro to latvian language word.
 
 # How to use 
